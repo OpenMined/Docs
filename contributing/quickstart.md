@@ -40,7 +40,26 @@ Once you've got a general understanding of the platform, you'll want to start wi
 
 In order to see our documentation and issues in all their full glory, you'll want to install this browser plugin for Zenhub. Just navigate to http://zenhub.com and click the "Add ZenHub to GitHub" button.
 
-## Step 7: Congratulations You're Ready!
+## Step 7: Join the Slack channels and chat with the teams
+
+When in doubt, ask away in these Slack channels, don't hesitate!
+
+- `#team_capsule` : Capsule project - if you're interested in cryptography
+- `#team_devops` : Operations - if you're interested in Docker, Continuous Integration and operations
+- `#team_docs` : Documentation - if you're interested in helping us make this project easier to understand
+- `#team_marketing` : Marketing & Branding - perception, visuals, messaging, communication, campaigns, goals of the OpenMined project
+- `#team_mine` : Mine project - if you're interested in user data
+- `#team_sonar` : Sonar project - if you're interested in blockchain, incentives, cryptography, distributed file storage (IPFS)
+- `#team_syft` : Syft project - if you're interested in cryptography and deep learning (machine learning)
+- `#process` : Process - discuss how we do things around here and how we can improve
+- `#code` : Code changes - get a feed on what people are actively working on - issues and pull requests
+- `#beginner` : If you don't know where to start on something, ask away 🙂
+- `#announcements` : Read-only channel where project leads make announcements
+- `#terminology` : If you don't know what a name means, ask here
+- `#questions` : For general Q&A
+- `#general-discussion` : If you have a question that doesn't fit into any of the above, ask here!
+
+## Step 8: Congratulations You're Ready!
 
 You now have the basics of the OpenMined ecosystem up and running and are ready to take on `beginner` level projects (Issues). We've gone out of our way to make sure that there are a plethora of mini-projects (Issues) that are 100% entry level. The way to find one is to pick any GitHub repository and click the *Issues* Tab at the top. This should take you to a place that looks like this.
 
