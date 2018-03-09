@@ -30,7 +30,7 @@ OpenMined is a community of volunteers focused on building open source technolog
 
 ### Glossary
 
-- **Model** - a neural network capable of learning to translate one dataset (i.e. tweets) into another (i.e. positive/negative sentiment predictions)
+- **Model** - a neural network capable of learning to translate one dataset (e.g. tweets) into another (e.g. positive/negative sentiment predictions)
 
 - **Data Scientist** - An individual (often part of an Organization) interested in training a Model on data that they do not have direct access to.
 
